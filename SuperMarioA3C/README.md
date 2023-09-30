@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Here is my python source code for training an agent to play super mario bros. By using Asynchronous Advantage Actor-Critic (A3C) algorithm introduced in the paper **Asynchronous Methods for Deep Reinforcement Learning** [paper](https://arxiv.org/abs/1602.01783).
+This is my A3C implementation of the SuperMario game in the hackathon 'Byte Brains: The ML Byte-athlon' and Here is my python source code for training an agent to play super mario bros. By using Asynchronous Advantage Actor-Critic (A3C) algorithm introduced in the paper **Asynchronous Methods for Deep Reinforcement Learning** [paper](https://arxiv.org/abs/1602.01783).
 
 <p align="center">
   <img src="demo/video_1_1.gif" width="250">
