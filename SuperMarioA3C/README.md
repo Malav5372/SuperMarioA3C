@@ -52,10 +52,6 @@ If an agent discovers environment alone, the learning process would be slow. Mor
 With my code, you can:
 * **Train your model** by running **python train.py**
 * **Test your trained model** by running **python test.py**
-
-## Trained models
-
-You could find some trained models I have trained in [Super Mario Bros A3C trained models](https://drive.google.com/open?id=1itDw9sXPiY7xC4u72RIfO5EdoVs0msLL)
  
 ## Requirements
 
