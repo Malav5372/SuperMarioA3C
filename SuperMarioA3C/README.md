@@ -1,5 +1,7 @@
 # SuperMarioA3C: [PYTORCH] Asynchronous Advantage Actor Critic (A3C) algorithm (Reinforcement Learning) implementation In the MushRoom Kingdom !
 
+![nintendo-super-mario-eating-mushroom-power-up-74rvt8oixt032skb](https://github.com/Malav5372/SuperMarioA3C/assets/144440737/b9f2e9de-b972-4acf-ba33-6b3da60dfa49)
+
 ## Introduction
 
 This is my A3C implementation of the SuperMario game in the hackathon 'Byte Brains: The ML Byte-athlon' and Here is my python source code for training an agent to play super mario bros. By using Asynchronous Advantage Actor-Critic (A3C) algorithm introduced in the paper **Asynchronous Methods for Deep Reinforcement Learning** [paper](https://arxiv.org/abs/1602.01783).
