@@ -1,8 +1,9 @@
-# [PYTORCH] Asynchronous Advantage Actor-Critic (A3C) for playing Super Mario Bros
+# SuperMarioA3C: [PYTORCH] Asynchronous Advantage Actor Critic (A3C) algorithm (Reinforcement Learning) implementation In the MushRoom Kingdom !
 
 ## Introduction
 
 Here is my python source code for training an agent to play super mario bros. By using Asynchronous Advantage Actor-Critic (A3C) algorithm introduced in the paper **Asynchronous Methods for Deep Reinforcement Learning** [paper](https://arxiv.org/abs/1602.01783).
+
 <p align="center">
   <img src="demo/video_1_1.gif" width="200">
   <img src="demo/video_1_2.gif" width="200">
@@ -61,6 +62,3 @@ You could find some trained models I have trained in [Super Mario Bros A3C train
 * **cv2**
 * **pytorch** 
 * **numpy**
-
-## Acknowledgements
-At the beginning, I could only train my agent to complete 9 stages. Then @davincibj pointed out that 19 stages could be completed and sent me the trained weights. Thank you a lot for the finding!
